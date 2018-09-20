@@ -1,0 +1,22 @@
+# Site settings
+title: Souvik "SG" Ghosh
+email: souvik.ghosh@case.edu
+url: https://souviksg.github.io
+description: "Academic Website of chemical/mechanical engineer SG Ghosh"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Souvik "SG" Ghosh
+
+# Social networks usernames 
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/pub/souvik-ghosh/20/769/731
+
+# Build settings
+markdown: kramdown
+permalink: pretty

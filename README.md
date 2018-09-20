@@ -1,11 +1,9 @@
-Academic Website of Souvik 'SG' Ghosh
+Academic Portfolio of Souvik 'SG' Ghosh
 =========================
 
-## PhD Candidate in Chemical Engineering
+## Chemical Engineering PhD
+Current Post-doctoral Research Associate at the University of Minnesota.
 Website contains information about my research, project, images.
-
-## Departmental Website
-[HERE](http://microplasma.case.edu)
 
 =========
 Uses a Heavily Customized Theme of [Grayscale](http://ironsummitmedia.github.io/startbootstrap-grayscale/)

@@ -1,4 +1,4 @@
-Academic Portfolio of Souvik 'SG' Ghosh
+Portfolio of Souvik Ghosh
 =========================
 
 ## Chemical Engineering PhD
